@@ -49,7 +49,7 @@ print-friendly set data, all return strings
   print $set->printIntervalVector();
   print $set->printForte();
   
-  print $set->printData();
+  print $set->printSetData();
 
 transformations, take index as parameter, return array
 
