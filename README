@@ -1,0 +1,28 @@
+Music-SetTheory version 0.01
+============================
+
+Object-oriented access to tools useful for post-tonal music analysis.
+Included are tools for manipulating sets as well as row forms.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module has no dependencies outside of the Perl CoreList.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2012 by Michael McClimon
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.12.3 or,
+at your option, any later version of Perl 5 you may have available.
+
+

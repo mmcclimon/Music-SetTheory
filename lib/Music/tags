@@ -1,0 +1,2 @@
+Copyright	SetTheory.pm	/^Copyright (C) 2012 by Michael McClimon$/
+invert	SetTheory.pm	/^$row->invert($index) instead)$/
